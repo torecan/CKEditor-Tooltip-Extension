@@ -11,7 +11,6 @@ import {
 import FormView from "./tooltipview";
 
 import listIcon from "./theme/infoIcon.svg";
-import '../../../../css/commonThemes/styles.scss';
 import "./theme/tooltip.css";
 
 
